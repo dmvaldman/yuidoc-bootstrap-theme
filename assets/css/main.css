@@ -240,9 +240,9 @@ th {
     font-size: 92.308%;
     font-weight: bold;
     padding: 4px 13px 3px;
-    -moz-text-shadow: 1px 1px 0 #fff;
-    -webkit-text-shadow: 1px 1px 0 #fff;
-    text-shadow: 1px 1px 0 #fff;
+    /*-moz-text-shadow: 1px 1px 0 #fff;*/
+    /*-webkit-text-shadow: 1px 1px 0 #fff;*/
+    /*text-shadow: 1px 1px 0 #fff;*/
     white-space: nowrap;
 
     background: #EFEFEF; /* old browsers */
@@ -255,9 +255,9 @@ th {
     border-color: #466899;
     color: #fff;
     text-decoration: none;
-    -moz-text-shadow: 1px 1px 0 #222;
-    -webkit-text-shadow: 1px 1px 0 #222;
-    text-shadow: 1px 1px 0 #222;
+    /*-moz-text-shadow: 1px 1px 0 #222;*/
+    /*-webkit-text-shadow: 1px 1px 0 #222;*/
+    /*text-shadow: 1px 1px 0 #222;*/
 
     background: #6396D8; /* old browsers */
     background: -moz-linear-gradient(top, #6396D8 0%, #5A83BC 50%, #547AB7 51%, #466899 100%); /* firefox */
@@ -703,7 +703,7 @@ kbd .cmd { font-family: Monaco, Helvetica; }
 
 #api-tabview-filter {
     border-bottom: none;
-    border-top: none;
+    /*border-top: none;*/
     padding: 0.6em 10px 0 10px;
 }
 
@@ -773,7 +773,7 @@ kbd .cmd { font-family: Monaco, Helvetica; }
 .api-list-item a:hover,
 .api-list-item a:focus {
     font-weight: bold;
-    text-shadow: 1px 1px 1px #fff;
+    /*text-shadow: 1px 1px 1px #fff;*/
 }
 
 .apis .message { color: #888; }
